@@ -1,4 +1,4 @@
-# cs261project
+# CS261 Software Engineering Group Project
 Needed libraries/resources:
 
 https://nlp.stanford.edu/software/stanford-corenlp-latest.zip - add to CLASSPATH
