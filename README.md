@@ -1,4 +1,7 @@
-# CS261 Software Engineering Group Project
+# Event Management App
+Software Engineering Module Group Project @University of Warwick
+
+
 Needed libraries/resources:
 
 https://nlp.stanford.edu/software/stanford-corenlp-latest.zip - add to CLASSPATH
