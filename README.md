@@ -1,5 +1,5 @@
 # Event Management App
-Software Engineering Module Group Project @University of Warwick
+Software Engineering Group Project - University of Warwick
 
 
 Needed libraries/resources:
