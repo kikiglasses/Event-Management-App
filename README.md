@@ -3,7 +3,6 @@ Needed libraries/resources:
 
 -https://nlp.stanford.edu/software/stanford-corenlp-latest.zip - add to CLASSPATH
 -
--
 
 Running the example stuff in command line:
 
